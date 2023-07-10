@@ -1,0 +1,8 @@
+Service Oriented Architecture (SOA), who uses SOA
+WebServices, Why Web Services are Being Used? 
+What is WSDL? , 
+Web Service Standards, tools to test Web services, 
+how to test web services, why to test web services.
+Understanding WSDL, how is it used, specifications, 
+document, and file, Retrieving and Viewing/ Inspecting 
+WSDL file."
